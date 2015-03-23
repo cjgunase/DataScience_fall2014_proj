@@ -1,0 +1,33 @@
+Andrew Jackson	Democratic
+Martin Van Buren	Democratic
+James Polk	Democratic
+Franklin Pierce	Democratic
+James Buchanan	Democratic
+Abraham Lincoln	Republican
+Andrew Johnson	Democratic
+Ulysses S. Grant	Republican
+Rutherford B. Hayes	Republican
+Chester A. Arthur	Republican
+Grover Cleveland	Democratic
+Benjamin Harrison	Republican
+William McKinley	Republican
+Theodore Roosevelt	Republican
+William H. Taft	Republican
+Woodrow Wilson	Democratic
+Warren G. Harding	Republican
+Calvin Coolidge	Republican
+Herbert Hoover	Republican
+Franklin D. Roosevelt	Democratic
+Harry S. Truman	Democratic
+Dwight D. Eisenhower	Republican
+John F. Kennedy	Democratic
+Lyndon B. Johnson	Democratic
+Richard Nixon	Republican
+Gerald R. Ford	Republican
+Jimmy Carter	Democratic
+Ronald Reagan	Republican
+George H. W. Bush	Republican
+William J. Clinton	Democratic
+George W. Bush	Republican
+Barack Obama	Democratic
+Barack Obama	Democratic
